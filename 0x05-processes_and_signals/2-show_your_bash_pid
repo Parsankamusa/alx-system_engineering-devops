@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Displays lines of process info containing the word 'bash'
+ps u | grep bash
