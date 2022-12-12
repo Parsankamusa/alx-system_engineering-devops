@@ -1,6 +1,7 @@
 # Simple Web Stack
 
-![Image of a simple web stack](0-simple-web-stack.jpg)
+![Image of a simple web stack]()![image](https://user-images.githubusercontent.com/91263172/206996967-cdcc29ce-265f-4a2b-baf5-6418497a0787.png)
+
 
 
 
