@@ -1,8 +1,7 @@
 # Secured and Monitored Web Infrastructure
 
-![Image of a secured and monitored infrastructure](2-secured_and_monitored_web_infrastructure.jpg)
+![Image of a secured and monitored infrastructure](![image](https://user-images.githubusercontent.com/91263172/206999270-8347583e-bb54-4dc2-b85f-f2b541e57c5c.png)
 
-[Visit Board](https://miro.com/app/board/uXjVOfNFwbY=/)
 
 ## Description
 
