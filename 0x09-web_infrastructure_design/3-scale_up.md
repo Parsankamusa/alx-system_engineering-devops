@@ -1,8 +1,6 @@
 # Scaled Up Web Infrastructure
 
-![Image of a scaled up web infrastructure](3-scale_up.jpg)
-
-[Visit Board](https://miro.com/app/board/uXjVOfMRh90=/)
+![Image of a scaled up web infrastructure](![image](https://user-images.githubusercontent.com/91263172/206999831-ab011bdb-aca7-43be-ba5e-88a19550bfd6.png)
 
 ## Description
 
