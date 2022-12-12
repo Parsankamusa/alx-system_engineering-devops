@@ -1,6 +1,7 @@
 # Distributed Web Infrastructure
 
-![Image of a distributed web infrastructure](![image](https://user-images.githubusercontent.com/91263172/206998079-a5f89e43-7cb3-4dca-9ad8-bd8420175aac.png)
+![Image of a distributed web infrastructure]()![image](https://user-images.githubusercontent.com/91263172/206998293-ea18ae98-9dff-4125-a931-04e3beafc1f5.png)
+
 )
 
 
