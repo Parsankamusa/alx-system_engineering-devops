@@ -24,9 +24,7 @@ contained follows:
 * [0x10-https, ssl](./0x10-https_ssl)
 * [Command, Line,for, the, WIn](./command_line_for_the_win)
 
-## Author :black_nib:
-
-* Amos Mwongela Gabriel <[4ouR04](https://github.com/4ouR04)>
+## Author :Parsankamusa:
 
 ## Acknowledgements :pray:
 
