@@ -6,6 +6,8 @@
 
 apt-get update
 apt-get install -y nginx
+# start nginx
+/etc/init.d/nginx start
 
 mkdir /etc/nginx/html
 touch /etc/nginx/html/index.html
